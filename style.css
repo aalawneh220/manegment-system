@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(88, 118, 120);
+}
+table{
+    width: 75%;
+    border-collapse: collapse;
+
+
+}
+th{
+    text-align: center;
+}
+td {
+    text-align: center;
+  }
